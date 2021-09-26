@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         printJavaForever();
+        System.out.println("test");
 
         int firstVal = 1, secondVal = 2;
         System.out.println("First val = " + firstVal + " second val = " + secondVal);
